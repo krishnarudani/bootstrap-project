@@ -1,13 +1,15 @@
+/* top-container */
+
 #title {
   background-color: #ff4c68;
 }
 
 .container-fluid {
-  padding: 3% 10%;
+  padding: 3% 10%; /* 3- top-bottom*/ /*15 -left-right*/
 }
 
 h1 {
   font-family: "Montserrat";
-  font-size: 3rem;
+  font-size: 3rem; /*heading*/
   line-height: 1.5;
 }
