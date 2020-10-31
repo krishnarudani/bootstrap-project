@@ -13,7 +13,7 @@ body {
 
 h1 {
   font-family: "Montserrat";
-  font-size: 3.5rem; /*heading*/
+  font-size: 4.5rem; /*heading*/
   line-height: 1.5;
 }
 
@@ -24,7 +24,7 @@ h1 {
 }
 
 .nav-item {
-  padding: 0 30px;
+  padding: 0 18px;
 }
 
 .navbar-brand {
@@ -40,6 +40,12 @@ h1 {
 }
 
 /*download button*/
+
 .Download-button {
   margin: 5% 3% 5%;
+}
+
+.title-image {
+  width: 60%;
+  transform: rotate(30deg);
 }
