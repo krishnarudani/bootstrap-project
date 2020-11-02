@@ -90,7 +90,7 @@ p {
 .testimonial-image {
   width: 10%;
   border-radius: 100%;
-  margin: 5%;
+  margin: 20px;
 }
 h2 {
   color: #fff;
@@ -100,6 +100,12 @@ h2 {
 }
 
 #press {
-  padding: 7% 15%;
+  padding-bottom: 3%;
   text-align: center;
+  background-color: #ef8172;
+}
+
+.press-image {
+  margin: 20px 20px 50px;
+  width: 15%;
 }
