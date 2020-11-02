@@ -54,11 +54,11 @@ h1 {
 
 h3 {
   font-family: "montserrat";
-  font-size: 2rem;
+  font-size: 1.5rem;
 }
 p {
-  font-family: "ubuntu";
   color: #8f8f8f;
+  font-family: "ubuntu";
   font-weight: 100;
 }
 
@@ -66,6 +66,12 @@ p {
   padding: 7% 15%;
 }
 
-.bootstrap-box {
+.features-box {
   text-align: center;
+  padding: 4.5%;
+}
+
+.icon {
+  color: #ef8172;
+  padding-bottom: 1rem;
 }
