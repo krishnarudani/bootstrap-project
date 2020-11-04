@@ -84,6 +84,7 @@ p {
 #testimonials {
   text-align: center;
   background-color: #ef8172;
+  color: #fff;
 }
 
 .testimonial-image {
@@ -92,7 +93,6 @@ p {
   margin: 30px;
 }
 h2 {
-  color: #fff;
   font-family: "montserrat";
   font-size: 4rem;
   line-height: 1.5;
