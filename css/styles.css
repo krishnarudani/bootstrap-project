@@ -137,3 +137,12 @@ h2 {
     transform: rotate(0);
   }
 }
+
+/*call to action */
+
+#cta {
+  background-color: #ff4c68;
+  padding: 7% 15%;
+  text-align: center;
+  color: #fff;
+}
