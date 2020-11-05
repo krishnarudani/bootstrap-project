@@ -149,3 +149,10 @@ h2 {
 .cta-text {
   font-size: 4rem;
 }
+
+/*footer section*/
+
+#footer {
+  padding: 7% 15%;
+  text-align: center;
+}
